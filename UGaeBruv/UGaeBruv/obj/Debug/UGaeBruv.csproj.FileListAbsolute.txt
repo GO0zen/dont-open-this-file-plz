@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\bin\Debug\UGaeBruv.exe.config
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\bin\Debug\UGaeBruv.exe
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\bin\Debug\UGaeBruv.pdb
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.MainWindow.resources
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.Properties.Resources.resources
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.exe
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.pdb
+C:\Users\Denis\source\repos\UGaeBruv\UGaeBruv\obj\Debug\UGaeBruv.SubWindow.resources
